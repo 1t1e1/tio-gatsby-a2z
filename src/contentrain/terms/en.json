@@ -2,11 +2,12 @@
   {
     "title": "Agile",
     "slug": "agile",
-    "content": "Agile is a software development methodology that focuses on communication and feedback throughout the development process. It also emphasizes working software over comprehensive documentation, and each iteration that a team makes to its product is seen as an opportunity to perfect it. Agile continues to grow in popularity, and its focus on communication with users directly benefits digital products. ",
+    "content": "Agile is a software development methodology that focuses on communication and feedback throughout the development process. It also emphasizes working software over comprehensive documentation, and each iteration that a team makes to its product is seen as an opportunity to perfect it. Agile continues to grow in popularity, and its focus on communication with users directly benefits digital products.  ",
     "tag": "A",
     "ID": "d8995e56-ac8a-43bd-a925-f963ffe4d568",
     "description": "What is agile for digital product development? Here is the definition of agile. Tio Digital Product Glossary | What is Agile ?",
-    "createdAt": 1655736701231
+    "createdAt": 1655736701231,
+    "updatedAt": 1655740594070
   },
   {
     "content": "API stands for an application programming interface. They make it possible to talk about different technologies to each other. An API allows the sharing of data or functions of a digital product with another digital product. They provide a clearly defined interface to enable various components of larger applications to work together, and they can reduce the amount of code that is required. In other words, they serve as bridges between your components, even if they were developed by different companies.",
