@@ -5,6 +5,7 @@ import Navbar from '../components/navbar'
 import Term from '../components/term'
 
 const Page = ({letter}) => {
+  
   const termsData = useStaticQuery(graphql`
   {
     allMarkdownRemark(sort: { fields: frontmatter___slug }) {
@@ -23,12 +24,14 @@ const Page = ({letter}) => {
   `)
 
   const terms = termsData.allMarkdownRemark.nodes.filter((term) => {
-    if(query) {
-      return term.frontmatter.tag == letter;
+    if(letter) {
+      return term.frontmatter.tag === letter;
     } else {
       return term
     }
   })
+ 
+  
     return (
        
       <main >
@@ -44,9 +47,10 @@ const Page = ({letter}) => {
         and <span className="font-serif"> definitions </span> that you'll want to know
         about digital products.</h1>
         <div className="">
-        {terms.map((term, index) => ( 
-          <Term index={index} term={term} />
-          ))}
+        {terms &&
+        terms.map((term, index) => ( 
+          <Term index={index} term={term.frontmatter} key={index} />
+        ))}
         </div>
         </div>       
       </div>      

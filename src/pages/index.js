@@ -23,6 +23,8 @@ const IndexPage = () => {
   }
   `)
 
+  const terms = termsData.allMarkdownRemark.nodes
+console.log(terms)
   return (
     <main >
       <title>A to Z</title>
@@ -38,7 +40,7 @@ const IndexPage = () => {
         about digital products.</h1>
         <div className="">
         {terms.map((term, index) => ( 
-          <Term index={index} term={term} />
+          <Term index={index} term={term.frontmatter} key={index} />
           ))}
         </div>
         </div>       
