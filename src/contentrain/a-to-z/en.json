@@ -7,5 +7,14 @@
     "description": "Agile is a software development methodology that focuses on communication and feedback throughout the development process. It also emphasizes working software over comprehensive documentation, and each iteration that a team makes to its product is seen as an opportunity to perfect it. Agile continues to grow in popularity, and its focus on communication with users directly benefits digital products. ",
     "tag": "A",
     "createdAt": 1655741917276
+  },
+  {
+    "ID": "e3b1370a-bfd0-4654-a3dc-7574310817a3",
+    "title": "Behavioral Product Management",
+    "slug": "behavioral-product-management",
+    "content": "The use of behavioral science and human psychology in product design is referred to as behavioral product management. It is presumptively assumed that humans are illogical, and that there are certain behavioral patterns that can aid in increasing both user experience and conversion rates.",
+    "description": "The use of behavioral science and human psychology in product design is referred to as behavioral product management. It is presumptively assumed that humans are illogical, and that there are certain behavioral patterns that can aid in increasing both user experience and conversion rates.",
+    "tag": "B",
+    "createdAt": 1655741944160
   }
 ]
