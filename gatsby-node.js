@@ -30,7 +30,6 @@ const createIndividualPages = async ({ alphabet, gatsbyUtilities }) => {
     let template="./src/templates/page.js"
     await Promise.all(
         alphabet.map( ( letter ) => {
-     console.log(letter)
         // createPage is an action passed to createPages
         // See https://www.gatsbyjs.com/docs/actions#createPage for more info
         gatsbyUtilities.actions.createPage({
