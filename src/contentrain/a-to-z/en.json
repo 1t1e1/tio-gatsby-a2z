@@ -281,5 +281,14 @@
     "description": "Sprint is a way of planning for scrum teams which aims to track progress. ",
     "content": "Sprints are used by scrum teams to keep track of progress on a project. Sprint planning is a critical step along the way to delivering better products through agile, and it's one that informs every other part of the process. At the end of each sprint, the team should be able to show that they've made significant progress.",
     "createdAt": 1655822379676
+  },
+  {
+    "title": "UI",
+    "ID": "2977e1c9-c425-4d71-a6bf-595a1001e63f",
+    "slug": "ui",
+    "tag": "U",
+    "description": "UI stands for user interface. ",
+    "content": "UI is the user interface, which allows users to interact with a system. The most important thing for a UI designer is to make the user's interaction with the system convenient, without any misunderstanding and mistakes. There must be concise prompts, messages, and icons to help users operate the interface.",
+    "createdAt": 1655822446375
   }
 ]
