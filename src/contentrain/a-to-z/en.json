@@ -118,5 +118,14 @@
     "description": "Hardware is physical tools used in product development.",
     "content": "Hardware refers to the physical tools and mechanical equipment used in the development and use of your product. This could comprise the physical components of a computer as well as the tools required to use it, such as a keyboard, monitor, and mouse.",
     "createdAt": 1655820820011
+  },
+  {
+    "title": "Integration",
+    "ID": "637f5bf7-b1fd-4491-b472-d6e4c3df46c9",
+    "slug": "integration",
+    "tag": "I",
+    "description": "Integration stands for merging different applications, elements or systems into one.",
+    "content": "Software integration is the process of combining diverse software programs or pieces into a single system. The degree of integration can range from merging very small components to larger, more complicated systems. ",
+    "createdAt": 1655820945690
   }
 ]
