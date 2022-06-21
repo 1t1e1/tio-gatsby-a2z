@@ -37,5 +37,14 @@
     "ID": "ad27e4d5-0138-41b7-a9ce-b9ff4c5a5cbf",
     "content": "A/B tests are basically split tests with a control element and its variation. Almost everything measurable can be tested in a digital product, UI elements to call to action. It depends on the idea of measuring the performances of 2 variations to decide which one is better.\n\n![AB Test](https://lh3.googleusercontent.com/YRtB1g1VzW2UJx7ZJJ4naPG_aIsWNXiH2WZoLtMJRBjyqvojLmM6ZTg9pqQlrAeicphSRZzM089eu95FfvOV=w1294-h668)\n",
     "createdAt": 1655816990875
+  },
+  {
+    "description": "Conversion is a phrase used in digital products to describe the specific actions that users took.",
+    "slug": "conversion-rate",
+    "title": "Conversion Rate",
+    "tag": "C",
+    "ID": "f017c9f9-73e7-4ba2-9ce6-b4667624de43",
+    "content": "Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action. \n\n![Conversion Rate](https://lh3.googleusercontent.com/DVenpBithYyy6MDJdp7vqDtD7QiIlXHT2ILi5IVQ86GQ6Sw-Mj85-afjwZHCPTYo_OvWro2nVklJk2BRT3Pq=w1294-h668)",
+    "createdAt": 1655819595990
   }
 ]
