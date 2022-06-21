@@ -308,5 +308,14 @@
     "description": "Trello is a project management app which generally used by tech teams. ",
     "content": "Trello is a visual project management, workflow, and task tracking application that your team can use to manage any form of project, workflow, or task tracking. Files, checklists, and even automation can be added: Customize everything to fit the way your team works best.\n\n![Trello](https://lh6.googleusercontent.com/EGS9Gi8oAKaRK5zWy2H3-MD4yVLdOLvGAaauxLtF9Cy-g8wlwgKj5SoTE---2Vnc-6vAiXISl1rSB180oMqC=w1294-h668)",
     "createdAt": 1655822601371
+  },
+  {
+    "title": "Typography",
+    "ID": "3d3f3a74-8750-41eb-8b4e-7efe17a4b3a3",
+    "slug": "typography",
+    "tag": "T",
+    "description": " Typography is the all of the visual elements of text such font style, look and structure.",
+    "content": "The discipline of arranging letters and text in such a way that the content is legible, clear, and visually appealing to the reader is known as typography. \n\n![Typography](https://lh6.googleusercontent.com/7nYjBHMFM2IZ_qzyxRukequaJg3V4hb5lEQNj5PoD0PnTbEbg_oUcLwwg_PeZiLDNVe6gI4q1-j_XM1VoPgB=w1294-h668)",
+    "createdAt": 1655822731476
   }
 ]
