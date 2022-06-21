@@ -190,5 +190,14 @@
     "description": "MVP is minimum viable product which used for testing the idea or start generating leads. ",
     "content": "MVP stands for a minimum viable product. It is basically a small version of a bigger idea. With an MVP, it’s possible to see if the idea is profitable or not, start generating leads, build a community, learn about the processes, and more. ",
     "createdAt": 1655821542965
+  },
+  {
+    "title": "Microservice",
+    "ID": "aeb53179-d495-4d54-a9ce-7493160e314d",
+    "slug": "microservice",
+    "tag": "M",
+    "description": "Microservices are small apps that perform specific functions within a larger system.",
+    "content": "Microservices express an architectural style. Generally, a  microservice functions as a part of a bigger application. Microservices make it easy to build scalable applications that not only have fewer bugs but are also easier to maintain. Using microservice architecture manages collaborations and divides complex projects. It’s a pattern that has been used in some form since the mid-90s. ",
+    "createdAt": 1655821606403
   }
 ]
