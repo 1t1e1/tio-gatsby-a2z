@@ -272,5 +272,14 @@
     "description": "Scrum is a framework for product development which aims organizing work load by seperate it into one week to four weeks.",
     "content": "Scrum is a framework for iterative and incremental product development that is based on the step-by-step refinement of an annual plan, created using iterations that last between one and four weeks. This method focuses on creating adaptability within your team so they can react to change while still following the general plan.",
     "createdAt": 1655822296306
+  },
+  {
+    "title": "Sprint",
+    "ID": "f61c5440-d422-4988-84a2-8b3d08ed5abb",
+    "slug": "sprint",
+    "tag": "S",
+    "description": "Sprint is a way of planning for scrum teams which aims to track progress. ",
+    "content": "Sprints are used by scrum teams to keep track of progress on a project. Sprint planning is a critical step along the way to delivering better products through agile, and it's one that informs every other part of the process. At the end of each sprint, the team should be able to show that they've made significant progress.",
+    "createdAt": 1655822379676
   }
 ]
