@@ -199,5 +199,14 @@
     "description": "Microservices are small apps that perform specific functions within a larger system.",
     "content": "Microservices express an architectural style. Generally, a  microservice functions as a part of a bigger application. Microservices make it easy to build scalable applications that not only have fewer bugs but are also easier to maintain. Using microservice architecture manages collaborations and divides complex projects. It’s a pattern that has been used in some form since the mid-90s. ",
     "createdAt": 1655821606403
+  },
+  {
+    "title": "Navigation Map",
+    "ID": "2a142ad0-acc2-41f9-98ed-fac1f986d2d9",
+    "slug": "navigation-map",
+    "tag": "N",
+    "description": "Navigation is the process that allows users to reach their goals in the shortest amount of time possible.",
+    "content": "The term navigation map can be used to describe certain attributes of a route instruction. A navigation map can also be described as a diagram that depicts the structure and organization of interconnected documents.",
+    "createdAt": 1655821689338
   }
 ]
