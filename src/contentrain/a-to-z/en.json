@@ -218,5 +218,14 @@
     "content": "Introducing a product or service to users or customers is known as product onboarding. Onboarding is an essential part of the product adoption process. It enables people to become familiar with a product's features, as well as how to use it. \n\n![Onboarding](https://lh3.googleusercontent.com/-Y_PGhRSrt7ozr2sJtbNpi5xqJ7EYccKAZkhuzD3AOPOUbwyF2JA11Couox9yxmkIInJw49sUCaHQi_QDtR1=w1294-h668)",
     "createdAt": 1655821823973,
     "updatedAt": 1655821877919
+  },
+  {
+    "title": "Prototype",
+    "ID": "08b64bc2-6f69-4c51-a962-180b33cd6f4a",
+    "slug": "prototype",
+    "tag": "P",
+    "description": "Prototypes are early versions of a product.",
+    "content": "Prototypes are early examples of what you’re designing or building. They are created for getting feedback from the customer to ensure you two are on the same page about the product.",
+    "createdAt": 1655821947345
   }
 ]
