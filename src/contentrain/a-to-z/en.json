@@ -208,5 +208,14 @@
     "description": "Navigation is the process that allows users to reach their goals in the shortest amount of time possible.",
     "content": "The term navigation map can be used to describe certain attributes of a route instruction. A navigation map can also be described as a diagram that depicts the structure and organization of interconnected documents.",
     "createdAt": 1655821689338
+  },
+  {
+    "title": "Onboarding",
+    "ID": "812098dc-64ab-49cd-9a7c-75ce54b446ab",
+    "slug": "onboarding",
+    "tag": "O",
+    "description": "Onboarding is the process of introducing a digital product to its users.",
+    "content": "Introducing a product or service to users or customers is known as product onboarding. Onboarding is an essential part of the product adoption process. It enables people to become familiar with a product's features, as well as how to use it. ",
+    "createdAt": 1655821823973
   }
 ]
