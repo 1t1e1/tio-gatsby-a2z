@@ -136,5 +136,14 @@
     "description": "Jamstack is a framework for building static websites dynamicly.",
     "content": "Jamstack is an acronym that stands for JavaScript, API, and Markup. Web apps employ the programming language JavaScript. An API is a method of requesting data from another computer or application. Markup is code that gives browsers formatting instructions.",
     "createdAt": 1655821008234
+  },
+  {
+    "title": "Javascript",
+    "ID": "de536d1e-2980-49f1-b89e-20d465ca53ab",
+    "slug": "javascript",
+    "tag": "J",
+    "description": "Javascript is a programming language. ",
+    "content": "JavaScript is a scripting language that allows you to generate dynamically updating information, manipulate multimedia, animate graphics, and do a lot more.",
+    "createdAt": 1655821104942
   }
 ]
