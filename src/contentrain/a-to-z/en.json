@@ -46,5 +46,14 @@
     "ID": "f017c9f9-73e7-4ba2-9ce6-b4667624de43",
     "content": "Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action. \n\n![Conversion Rate](https://lh3.googleusercontent.com/DVenpBithYyy6MDJdp7vqDtD7QiIlXHT2ILi5IVQ86GQ6Sw-Mj85-afjwZHCPTYo_OvWro2nVklJk2BRT3Pq=w1294-h668)",
     "createdAt": 1655819595990
+  },
+  {
+    "description": "CRO is an expression for conversion rate optimization.",
+    "slug": "cro",
+    "title": "CRO",
+    "tag": "C",
+    "ID": "d52b9fe2-8556-4cac-8847-c3d0c0f95912",
+    "content": "CRO stands for conversion rate optimization. It includes all efforts aimed to increase the conversion rate of a product, ad, creative, website, online shop, mobile app, etc. \n\n",
+    "createdAt": 1655819746147
   }
 ]
