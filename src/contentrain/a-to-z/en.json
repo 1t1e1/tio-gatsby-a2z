@@ -55,5 +55,14 @@
     "ID": "d52b9fe2-8556-4cac-8847-c3d0c0f95912",
     "content": "CRO stands for conversion rate optimization. It includes all efforts aimed to increase the conversion rate of a product, ad, creative, website, online shop, mobile app, etc. \n\n",
     "createdAt": 1655819746147
+  },
+  {
+    "description": "Design thinking provides a framework for solving user problems.",
+    "slug": "design-thinking",
+    "title": "Design Thinking",
+    "tag": "D",
+    "ID": "2610f288-c4d5-4590-a5c6-ae6ee00fc2c2",
+    "content": "Design thinking is a relatively old methodology for designing. Design thinking gives a framework to solve the problems of users. In design thinking, there are steps to follow: empathize, define, ideate, prototype, and test.\n",
+    "createdAt": 1655819993576
   }
 ]
