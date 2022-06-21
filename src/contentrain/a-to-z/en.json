@@ -163,5 +163,14 @@
     "description": "Kanban is a lean product development approach that used for following work load. ",
     "content": "Kanban is an organizing method that generally divides workload into columns as to do, doing, done. It is a dynamic method invented to help teams more efficiently complete their work. Rather than only doing a bit of work at a time, every column gives the team an idea of how much work is being accomplished at any given moment. This is best practice because it creates an awareness of how much work is being completed. ",
     "createdAt": 1655821271488
+  },
+  {
+    "title": "Lean",
+    "ID": "67bd7fc1-b118-4617-98a3-0ee282cbae3a",
+    "slug": "lean",
+    "tag": "L",
+    "description": "Lean is an approach for minimizing risk in development processes. ",
+    "content": "Lean is a methodology for product development. It aims to maximize efficiency by eliminating waste of all kinds. With the inspiration of Toyota’s production framework; developers and entrepreneurs built different approaches to different systems. They all basically stand on the idea of developing the best possible product with given sources.",
+    "createdAt": 1655821364286
   }
 ]
