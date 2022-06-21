@@ -236,5 +236,14 @@
     "description": "Pixel is the smallest  element of a digital picture. ",
     "content": "The term pixel is derived from the words pix (from photographs) and el (for element). A pixel is commonly regarded as the tiniest single component of a computer image.\n\n![Pixel](https://lh3.googleusercontent.com/AJvzler0HUbro7htkhUujbFSXYwWEqd4GjLbO8Lt53XbJmqtGmwE9kFmnEHsrY6BFY2-WJoK506Q8Nsppzm2=w1294-h668)",
     "createdAt": 1655822042357
+  },
+  {
+    "title": "Perception of Value",
+    "ID": "d392a174-97eb-4ed1-9e53-e8ce2cb7f1ca",
+    "slug": "perception-of-value",
+    "tag": "P",
+    "description": "Perception of value is the expression of how users feels about the value of a product. ",
+    "content": "Perception of value explains customer satisfaction with a product or service. It mostly depends on expectations, affordance, and aesthetics. A product's perceived value is an estimation of the value that customers suppose they are obtaining.",
+    "createdAt": 1655822120476
   }
 ]
