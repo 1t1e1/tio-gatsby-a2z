@@ -290,5 +290,14 @@
     "description": "UI stands for user interface. ",
     "content": "UI is the user interface, which allows users to interact with a system. The most important thing for a UI designer is to make the user's interaction with the system convenient, without any misunderstanding and mistakes. There must be concise prompts, messages, and icons to help users operate the interface.",
     "createdAt": 1655822446375
+  },
+  {
+    "title": "Techical Dept",
+    "ID": "ef71b13c-5c9e-4501-aefc-7af039b1fc68",
+    "slug": "techical-dept",
+    "tag": "T",
+    "description": "Technical dept is the result of prioritizing speed over excellence.",
+    "content": "Technical dept is a catch-all category that includes everything from bugs to legacy code to missing documentation. It occurs when speed is more important than perfectness. ",
+    "createdAt": 1655822507304
   }
 ]
