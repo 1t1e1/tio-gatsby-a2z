@@ -423,5 +423,15 @@
     "content": "Usability is a UX and UI term to express how usable a product is. It’s important to differentiate usability from the ease of use. Usability includes learnability, efficiency, memorability, errors, and satisfaction. ",
     "metaDescription": "Usablity is the expression of how usable a product. ",
     "createdAt": 1655882936871
+  },
+  {
+    "slug": "user-journey-map",
+    "tag": "U",
+    "title": "User Journey Map",
+    "ID": "9ad9132e-619b-4e57-a5ca-7836a55b9220",
+    "description": "User journey maps are a visual representation of how the user interacts with the design from the designer's point of view. The designer may become so engrossed in his job that he loses sight of his ultimate goal: to assist consumers with their requirements. It enables him to describe the defects, how they may be improved, and what could be done to correct them. It promotes the notion that interactivity is an important aspect of design.",
+    "content": "User journey maps are a visual representation of how the user interacts with the design from the designer's point of view. The designer may become so engrossed in his job that he loses sight of his ultimate goal: to assist consumers with their requirements. It enables him to describe the defects, how they may be improved, and what could be done to correct them. It promotes the notion that interactivity is an important aspect of design.",
+    "metaDescription": "User journey maps are represantation of a user's steps in a digital product. ",
+    "createdAt": 1655883003362
   }
 ]
