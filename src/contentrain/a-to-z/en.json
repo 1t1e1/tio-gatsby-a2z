@@ -463,5 +463,15 @@
     "content": "Wireframes are pre-structures of a digital product. They are simple black-and-white drafts before any code is written. It is possible to perceive them as sketches. It helps different teams visually communicate with each other. Wireframes are used by user experience and user interface designers to sketch out a visual idea that can be readily adjusted until it's ready to be created and developed",
     "metaDescription": "Wireframes are drafts of a digital product design. ",
     "createdAt": 1655883190396
+  },
+  {
+    "slug": "waterfall",
+    "tag": "W",
+    "title": "Waterfall",
+    "ID": "0854978c-63c2-420b-b294-48fd40782a9b",
+    "description": "The waterfall is a methodology for project management. It is based on finishing every stage before starting the next one. In software development, there are 5 common stages: requirements, design, implementation, verification or testing, deployment & maintenance. ",
+    "content": "The waterfall is a methodology for project management. It is based on finishing every stage before starting the next one. In software development, there are 5 common stages: requirements, design, implementation, verification or testing, deployment & maintenance. ",
+    "metaDescription": "Waterfall is a development methodology in software development.",
+    "createdAt": 1655883292986
   }
 ]
