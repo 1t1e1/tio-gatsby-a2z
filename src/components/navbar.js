@@ -14,7 +14,7 @@ const Navbar = () => {
                         formats={["auto", "webp", "avif"]}
                     />
                  </Link>
-                <button className="hidden flex-none sm:block bg-blue border text-lg rounded-lg px-10 py-3 text-white hover:bg-white hover:text-blue hover:border-blue hover:border">Get in touch</button>
+                <a href="mailto:merhaba@tio.ist" className="hidden flex-none sm:block bg-blue border text-lg rounded-lg px-10 py-3 text-white hover:bg-white hover:text-blue hover:border-blue hover:border">Get in touch</a>
             </div>
         </div>
     );

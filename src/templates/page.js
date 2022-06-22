@@ -4,8 +4,8 @@ import Menu from '../components/menu'
 import Navbar from '../components/navbar'
 import Term from '../components/term'
 
-const Page = ({letter}) => {
-  
+const Page = ({pageContext}) => {
+  let letter = pageContext.letter
   const termsData = useStaticQuery(graphql`
   {
     allMarkdownRemark(sort: { fields: frontmatter___slug }) {
@@ -24,6 +24,7 @@ const Page = ({letter}) => {
   `)
 
   const terms = termsData.allMarkdownRemark.nodes.filter((term) => {
+    console.log(term.frontmatter.tag,letter)
     if(letter) {
       return term.frontmatter.tag === letter;
     } else {
@@ -40,7 +41,7 @@ const Page = ({letter}) => {
         <div className="fixed h-full">
           <Menu/>
         </div>
-        <div className="flex flex-col lg:pl-80 pr-20">
+        <div className="flex flex-col lg:pl-80 pr-20 w-full">
         <Navbar/>
         <h1 className="text-xl  md:text-2xl lg:text-5xl max-w-2xl text-blue pt-10 pb-40 font-bold">We've listed all the 
         <span className="font-serif"> terms </span> 
