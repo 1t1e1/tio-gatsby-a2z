@@ -393,5 +393,15 @@
     "content": "UX refers to user experience. User experience focuses on the user's perception of the system while UI mostly focuses on aesthetic elements of a product or system. User experiences are designed by UX designers with the aim of easiness, efficiency, usability, and so on.",
     "metaDescription": "UX stands for user experience. ",
     "createdAt": 1655882705252
+  },
+  {
+    "slug": "user-flow",
+    "tag": "U",
+    "title": "User Flow",
+    "ID": "0689a7eb-5015-4d99-9b4c-174fbdbff91c",
+    "description": "User flows are critical to the design process. They represent the desired flow of a user through a site and are used to protect against overly complex interfaces, at the very minimum. They are the fastest way of visualizing users’ processes and understanding their needs.",
+    "content": "User flows are critical to the design process. They represent the desired flow of a user through a site and are used to protect against overly complex interfaces, at the very minimum. They are the fastest way of visualizing users’ processes and understanding their needs.",
+    "metaDescription": "User flow is the path users follow to accomplish a task.",
+    "createdAt": 1655882784949
   }
 ]
