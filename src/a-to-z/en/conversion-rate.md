@@ -1,12 +1,12 @@
 ---
-description: "Conversion is a phrase used in digital products to describe the specific actions that users took."
+description: "Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action."
 slug: "conversion-rate"
 title: "Conversion Rate"
 tag: "C"
 ID: "f017c9f9-73e7-4ba2-9ce6-b4667624de43"
 createdAt: 1655819595990
+metaDescription: "Conversion is a phrase used in digital products to describe the specific actions that users took."
+updatedAt: 1655881835446
 
 ---
-Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action. 
-
-![Conversion Rate](https://lh3.googleusercontent.com/DVenpBithYyy6MDJdp7vqDtD7QiIlXHT2ILi5IVQ86GQ6Sw-Mj85-afjwZHCPTYo_OvWro2nVklJk2BRT3Pq=w1294-h668)
+Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action.
