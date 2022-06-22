@@ -6,7 +6,9 @@ tag: "P"
 description: "Perception of value explains customer satisfaction with a product or service. It mostly depends on expectations, affordance, and aesthetics. A product's perceived value is an estimation of the value that customers suppose they are obtaining."
 createdAt: 1655822120476
 metaDescription: "Perception of value is the expression of how users feels about the value of a product. "
-updatedAt: 1655882445043
+updatedAt: 1655900505255
 
 ---
 Perception of value explains customer satisfaction with a product or service. It mostly depends on expectations, affordance, and aesthetics. A product's perceived value is an estimation of the value that customers suppose they are obtaining.
+
+![Perception of Value](https://media.giphy.com/media/9x1bcicqDesT5vAvxI/giphy.gif)
