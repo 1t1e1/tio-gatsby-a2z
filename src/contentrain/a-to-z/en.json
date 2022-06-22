@@ -66,13 +66,15 @@
     "updatedAt": 1655881860755
   },
   {
-    "description": "Design thinking provides a framework for solving user problems.",
+    "description": "Design thinking is a relatively old methodology for designing. Design thinking gives a framework to solve the problems of users. In design thinking, there are steps to follow: empathize, define, ideate, prototype, and test.",
     "slug": "design-thinking",
     "title": "Design Thinking",
     "tag": "D",
     "ID": "2610f288-c4d5-4590-a5c6-ae6ee00fc2c2",
     "content": "Design thinking is a relatively old methodology for designing. Design thinking gives a framework to solve the problems of users. In design thinking, there are steps to follow: empathize, define, ideate, prototype, and test.\n",
-    "createdAt": 1655819993576
+    "createdAt": 1655819993576,
+    "metaDescription": "Design thinking provides a framework for solving user problems.",
+    "updatedAt": 1655881885273
   },
   {
     "description": "Empathy mapping is a framework for reaching a better understanding of users. ",
