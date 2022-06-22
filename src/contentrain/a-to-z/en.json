@@ -3,319 +3,495 @@
     "ID": "c9699cfd-b0bc-4928-8705-51fcd43867b9",
     "title": "Agile",
     "slug": "agile",
-    "content": "Agile is a software development methodology that focuses on communication and feedback throughout the development process. It also emphasizes working software over comprehensive documentation, and each iteration that a team makes to its product is seen as an opportunity to perfect it. Agile continues to grow in popularity, and its focus on communication with users directly benefits digital products. \n\n![agile](https://lh5.googleusercontent.com/_Moq-tXjHJSAYdjrBGGFIdx6gfLr4wImblU5Gpk5YEEWc8W3-eovtD_t9s_UOhqIZToX6bMvqOI8lo7FS_1l=w1294-h668)",
+    "content": "Agile is a software development methodology that focuses on communication and feedback throughout the development process. It also emphasizes working software over comprehensive documentation, and each iteration that a team makes to its product is seen as an opportunity to perfect it. Agile continues to grow in popularity, and its focus on communication with users directly benefits digital products. ",
     "description": "Agile is a software development methodology that focuses on communication and feedback throughout the development process. It also emphasizes working software over comprehensive documentation, and each iteration that a team makes to its product is seen as an opportunity to perfect it. Agile continues to grow in popularity, and its focus on communication with users directly benefits digital products. ",
     "tag": "A",
     "createdAt": 1655741917276,
-    "updatedAt": 1655816482901
+    "updatedAt": 1655880941403,
+    "metaDescription": "Agile is the name of a group of methodologies aiming to make development processes more productive. "
   },
   {
     "ID": "e3b1370a-bfd0-4654-a3dc-7574310817a3",
     "title": "Behavioral Product Management",
     "slug": "behavioral-product-management",
-    "content": "The use of behavioral science and human psychology in product design is referred to as behavioral product management. It is presumptively assumed that humans are illogical, and that there are certain behavioral patterns that can aid in increasing both user experience and conversion rates.\n\n![Behavioral Product Management](https://lh4.googleusercontent.com/HZo3J2ABGPMIEuG0GOAw6r1zMRXFPQumcI0E5NRDHcAFCxu3uLq3M3bZKNU2bBYOTxx7eCcqYGL-CEhOqZIu=w1294-h668)",
+    "content": "The use of behavioral science and human psychology in product design is referred to as behavioral product management. It is presumptively assumed that humans are illogical, and that there are certain behavioral patterns that can aid in increasing both user experience and conversion rates.",
     "description": "The use of behavioral science and human psychology in product design is referred to as behavioral product management. It is presumptively assumed that humans are illogical, and that there are certain behavioral patterns that can aid in increasing both user experience and conversion rates.",
     "tag": "B",
     "createdAt": 1655741944160,
-    "updatedAt": 1655816654789
+    "updatedAt": 1655881787963,
+    "metaDescription": "Behavioral product management refers to the application of behavioral science and human psychology to product processes."
   },
   {
-    "description": "API means application programming interface, which makes different technologies communicate. ",
+    "description": "API means application programming interface, which makes different technologies communicate. API stands for an application programming interface. They make it possible to talk about different technologies to each other. An API allows the sharing of data or functions of a digital product with another digital product. They provide a clearly defined interface to enable various components of larger applications to work together, and they can reduce the amount of code that is required. In other words, they serve as bridges between your components, even if they were developed by different companies.",
     "slug": "api",
     "title": "API",
     "tag": "A",
     "ID": "aff7d524-118c-49c8-afe3-289eaf4f1dc9",
-    "content": "API stands for an application programming interface. They make it possible to talk about different technologies to each other. An API allows the sharing of data or functions of a digital product with another digital product. They provide a clearly defined interface to enable various components of larger applications to work together, and they can reduce the amount of code that is required. In other words, they serve as bridges between your components, even if they were developed by different companies.\n\n![Api](https://lh4.googleusercontent.com/9dVlBr5ZmLjUmGjRZPv1kOTzMl1W9HkYl-e6_ZrHc9CMW4eko8039y3Vn1Me7mu4uefIJc8c6ATVCExOyJx7=w1294-h668)",
+    "content": "API stands for an application programming interface. They make it possible to talk about different technologies to each other. An API allows the sharing of data or functions of a digital product with another digital product. They provide a clearly defined interface to enable various components of larger applications to work together, and they can reduce the amount of code that is required. In other words, they serve as bridges between your components, even if they were developed by different companies.\n",
     "createdAt": 1655816348621,
-    "updatedAt": 1655816690980
+    "updatedAt": 1655881193215,
+    "metaDescription": "API means application programming interface, which makes different technologies communicate. "
   },
   {
-    "description": "A/B test is a testing method used by splitting hypotheses into 2 and observing which ones perform better.",
+    "description": "A/B tests are basically split tests with a control element and its variation. Almost everything measurable can be tested in a digital product, UI elements to call to action. It depends on the idea of measuring the performances of 2 variations to decide which one is better. ",
     "slug": "ab-test",
     "title": "AB Test",
     "tag": "A",
     "ID": "ad27e4d5-0138-41b7-a9ce-b9ff4c5a5cbf",
-    "content": "A/B tests are basically split tests with a control element and its variation. Almost everything measurable can be tested in a digital product, UI elements to call to action. It depends on the idea of measuring the performances of 2 variations to decide which one is better.\n\n![AB Test](https://lh3.googleusercontent.com/YRtB1g1VzW2UJx7ZJJ4naPG_aIsWNXiH2WZoLtMJRBjyqvojLmM6ZTg9pqQlrAeicphSRZzM089eu95FfvOV=w1294-h668)\n",
-    "createdAt": 1655816990875
+    "content": "A/B tests are basically split tests with a control element and its variation. Almost everything measurable can be tested in a digital product, UI elements to call to action. It depends on the idea of measuring the performances of 2 variations to decide which one is better.\n",
+    "createdAt": 1655816990875,
+    "metaDescription": "A/B test is a testing method used by splitting hypotheses into 2 and observing which ones perform better.",
+    "updatedAt": 1655881732985
   },
   {
-    "description": "Conversion is a phrase used in digital products to describe the specific actions that users took.",
+    "description": "Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action.",
     "slug": "conversion-rate",
     "title": "Conversion Rate",
     "tag": "C",
     "ID": "f017c9f9-73e7-4ba2-9ce6-b4667624de43",
-    "content": "Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action. \n\n![Conversion Rate](https://lh3.googleusercontent.com/DVenpBithYyy6MDJdp7vqDtD7QiIlXHT2ILi5IVQ86GQ6Sw-Mj85-afjwZHCPTYo_OvWro2nVklJk2BRT3Pq=w1294-h668)",
-    "createdAt": 1655819595990
+    "content": "Conversion is a digital product term that refers to desired actions users took. Conversion rate, on the other hand, is a metric to measure conversions. It is calculated by simply splitting the number of all traffic into a number of the desired action.",
+    "createdAt": 1655819595990,
+    "metaDescription": "Conversion is a phrase used in digital products to describe the specific actions that users took.",
+    "updatedAt": 1655881835446
   },
   {
-    "description": "CRO is an expression for conversion rate optimization.",
+    "description": "CRO stands for conversion rate optimization. It includes all efforts aimed to increase the conversion rate of a product, ad, creative, website, online shop, mobile app, etc. ",
     "slug": "cro",
     "title": "CRO",
     "tag": "C",
     "ID": "d52b9fe2-8556-4cac-8847-c3d0c0f95912",
     "content": "CRO stands for conversion rate optimization. It includes all efforts aimed to increase the conversion rate of a product, ad, creative, website, online shop, mobile app, etc. \n\n",
-    "createdAt": 1655819746147
+    "createdAt": 1655819746147,
+    "metaDescription": "CRO is an expression for conversion rate optimization.",
+    "updatedAt": 1655881860755
   },
   {
-    "description": "Design thinking provides a framework for solving user problems.",
+    "description": "Design thinking is a relatively old methodology for designing. Design thinking gives a framework to solve the problems of users. In design thinking, there are steps to follow: empathize, define, ideate, prototype, and test.",
     "slug": "design-thinking",
     "title": "Design Thinking",
     "tag": "D",
     "ID": "2610f288-c4d5-4590-a5c6-ae6ee00fc2c2",
     "content": "Design thinking is a relatively old methodology for designing. Design thinking gives a framework to solve the problems of users. In design thinking, there are steps to follow: empathize, define, ideate, prototype, and test.\n",
-    "createdAt": 1655819993576
+    "createdAt": 1655819993576,
+    "metaDescription": "Design thinking provides a framework for solving user problems.",
+    "updatedAt": 1655881885273
   },
   {
-    "description": "Empathy mapping is a framework for reaching a better understanding of users. ",
+    "description": "Empathy mapping is a strategy for increasing user experience by understand them. There are numerous empathy mapping approaches, but some general characteristics include asking the user what they are doing, seeing, hearing, thinking, and feeling.",
     "slug": "empathy-mapping",
     "title": "Empathy Mapping",
     "tag": "E",
     "ID": "ca902d45-2be6-493b-b991-26b1448337e5",
     "content": "Empathy mapping is a strategy for increasing user experience by understand them. There are numerous empathy mapping approaches, but some general characteristics include asking the user what they are doing, seeing, hearing, thinking, and feeling.",
-    "createdAt": 1655820117327
+    "createdAt": 1655820117327,
+    "metaDescription": "Empathy mapping is a framework for reaching a better understanding of users. ",
+    "updatedAt": 1655881912980
   },
   {
-    "description": "The five-second test is a method can be conducted for discovering first impressions.",
+    "description": "The Five-second test is a user research method. It is a simple test aimed to get new insights into a product’s usability. After participants took a look at the product for 5 seconds, they asked simple questions. It’s good for understanding the first impression of the design.",
     "slug": "five-second-test",
     "title": "Five Second Test",
     "tag": "F",
     "ID": "e0d76559-8f12-42f2-9f25-24ede112e052",
-    "content": "The Five-second test is a user research method. It is a simple test aimed to get new insights into a product’s usability. After participants took a look at the product for 5 seconds, they asked simple questions. It’s good for understanding the first impression of the design.\n\n![Five Second Test](https://lh4.googleusercontent.com/pSM9OnhClhDScrajtJ_Y8cNpRoEfIlEmOnLX6DzCu5hRnn_57hxu1NrYuCnCGvLtqwpytOeSPluFH3ZtQ86x=w1294-h668)",
-    "createdAt": 1655820242170
+    "content": "The Five-second test is a user research method. It is a simple test aimed to get new insights into a product’s usability. After participants took a look at the product for 5 seconds, they asked simple questions. It’s good for understanding the first impression of the design.",
+    "createdAt": 1655820242170,
+    "metaDescription": "The five-second test is a method can be conducted for discovering first impressions.",
+    "updatedAt": 1655881940044
   },
   {
     "slug": "flow-charts",
-    "description": "A flow chart is a straightforward visual representation of a complex process.",
+    "description": "A flowchart is an easy-to-understand, visually presented diagram depicting the overall process. You will find that a flowchart is often used in business, science, and information technology-related activities, but they are equally useful for administrative processes. A flowchart will be of great use to you if you are the kind of person who likes visual solutions to problems.",
     "title": "Flow Charts",
     "ID": "72659c16-e60d-494f-9b4f-a9b39c19da67",
     "content": "A flowchart is an easy-to-understand, visually presented diagram depicting the overall process. You will find that a flowchart is often used in business, science, and information technology-related activities, but they are equally useful for administrative processes. A flowchart will be of great use to you if you are the kind of person who likes visual solutions to problems.",
     "tag": "F",
-    "createdAt": 1655820552737
+    "createdAt": 1655820552737,
+    "metaDescription": "A flow chart is a straightforward visual representation of a complex process.",
+    "updatedAt": 1655881965052
   },
   {
     "title": "Growth Hacking",
     "ID": "1ab34652-639e-429a-89d2-aa2cf7e2534c",
     "slug": "growth-hacking",
     "tag": "G",
-    "description": "Growth hacking is a set of strategies for tech-driven businesses.",
+    "description": "Growth hacking is a relatively new marketing subfield generally used by tech-driven companies. Growth hacking focuses on ways to grow as a whole instead of just leads and acquisitions. Growth hackers use pirate funnels which occur through steps of awareness, acquisition, activation, retention, revenue, and referral.",
     "content": "Growth hacking is a relatively new marketing subfield generally used by tech-driven companies. Growth hacking focuses on ways to grow as a whole instead of just leads and acquisitions. Growth hackers use pirate funnels which occur through steps of awareness, acquisition, activation, retention, revenue, and referral.",
-    "createdAt": 1655820635751
+    "createdAt": 1655820635751,
+    "metaDescription": "Growth hacking is a set of strategies for tech-driven businesses.",
+    "updatedAt": 1655881995409
   },
   {
     "title": "GIF",
     "ID": "371749ea-d6ab-441a-a1c0-ad11f2638bb2",
     "slug": "gif",
     "tag": "G",
-    "description": "GIF stands for graphics interchange format.",
+    "description": "The graphics interchange format (GIF) is a sort of bitmap picture format established by CompuServe in 1987. The format allows up to 8 bits per pixel, giving a picture access to a 255-color palette. The greatest distinguishing feature of GIF is its support for animation, with each frame allowing for the usage of a new palette.",
     "content": "The graphics interchange format (GIF) is a sort of bitmap picture format established by CompuServe in 1987. The format allows up to 8 bits per pixel, giving a picture access to a 255-color palette. The greatest distinguishing feature of GIF is its support for animation, with each frame allowing for the usage of a new palette.",
-    "createdAt": 1655820754214
+    "createdAt": 1655820754214,
+    "metaDescription": "GIF stands for graphics interchange format.",
+    "updatedAt": 1655882013316
   },
   {
     "title": "Hardware",
     "ID": "99c0cc0f-d6c2-4c1d-8c9b-7bc38b044039",
     "slug": "hardware",
     "tag": "H",
-    "description": "Hardware is physical tools used in product development.",
+    "description": "Hardware refers to the physical tools and mechanical equipment used in the development and use of your product. This could comprise the physical components of a computer as well as the tools required to use it, such as a keyboard, monitor, and mouse.",
     "content": "Hardware refers to the physical tools and mechanical equipment used in the development and use of your product. This could comprise the physical components of a computer as well as the tools required to use it, such as a keyboard, monitor, and mouse.",
-    "createdAt": 1655820820011
+    "createdAt": 1655820820011,
+    "metaDescription": "Hardware is physical tools used in product development.",
+    "updatedAt": 1655882037014
   },
   {
     "title": "Integration",
     "ID": "637f5bf7-b1fd-4491-b472-d6e4c3df46c9",
     "slug": "integration",
     "tag": "I",
-    "description": "Integration stands for merging different applications, elements or systems into one.",
+    "description": "Software integration is the process of combining diverse software programs or pieces into a single system. The degree of integration can range from merging very small components to larger, more complicated systems. ",
     "content": "Software integration is the process of combining diverse software programs or pieces into a single system. The degree of integration can range from merging very small components to larger, more complicated systems. ",
-    "createdAt": 1655820945690
+    "createdAt": 1655820945690,
+    "metaDescription": "Integration stands for merging different applications, elements or systems into one.",
+    "updatedAt": 1655882077628
   },
   {
     "title": "Jamstack",
     "ID": "cb59047b-5c16-4de9-a273-27b2c6f77353",
     "slug": "jamstack",
     "tag": "J",
-    "description": "Jamstack is a framework for building static websites dynamicly.",
+    "description": "Jamstack is an acronym that stands for JavaScript, API, and Markup. Web apps employ the programming language JavaScript. An API is a method of requesting data from another computer or application. Markup is code that gives browsers formatting instructions.",
     "content": "Jamstack is an acronym that stands for JavaScript, API, and Markup. Web apps employ the programming language JavaScript. An API is a method of requesting data from another computer or application. Markup is code that gives browsers formatting instructions.",
-    "createdAt": 1655821008234
+    "createdAt": 1655821008234,
+    "metaDescription": "Jamstack is a framework for building static websites dynamicly.",
+    "updatedAt": 1655882101122
   },
   {
     "title": "Javascript",
     "ID": "de536d1e-2980-49f1-b89e-20d465ca53ab",
     "slug": "javascript",
     "tag": "J",
-    "description": "Javascript is a programming language. ",
+    "description": "JavaScript is a scripting language that allows you to generate dynamically updating information, manipulate multimedia, animate graphics, and do a lot more.",
     "content": "JavaScript is a scripting language that allows you to generate dynamically updating information, manipulate multimedia, animate graphics, and do a lot more.",
-    "createdAt": 1655821104942
+    "createdAt": 1655821104942,
+    "metaDescription": "Javascript is a programming language. ",
+    "updatedAt": 1655882122173
   },
   {
     "title": "Job Title",
     "ID": "695ee4f1-ab7b-4a30-9bb3-e438b23b5ebe",
     "slug": "job-title",
     "tag": "J",
-    "description": "Job title is the formal name of  a position.",
+    "description": "A job title is a precise identification of a position within an organization, which is usually accompanied with a job description that outlines the activities and responsibilities connected with it.",
     "content": "A job title is a precise identification of a position within an organization, which is usually accompanied with a job description that outlines the activities and responsibilities connected with it.",
-    "createdAt": 1655821190210
+    "createdAt": 1655821190210,
+    "metaDescription": "Job title is the formal name of  a position.",
+    "updatedAt": 1655882148240
   },
   {
     "title": "Kanban",
     "ID": "7504bb04-ebdf-4d4c-80f5-a415c4285fc5",
     "slug": "kanban",
     "tag": "K",
-    "description": "Kanban is a lean product development approach that used for following work load. ",
+    "description": "Kanban is an organizing method that generally divides workload into columns as to do, doing, done. It is a dynamic method invented to help teams more efficiently complete their work. Rather than only doing a bit of work at a time, every column gives the team an idea of how much work is being accomplished at any given moment. This is best practice because it creates an awareness of how much work is being completed. ",
     "content": "Kanban is an organizing method that generally divides workload into columns as to do, doing, done. It is a dynamic method invented to help teams more efficiently complete their work. Rather than only doing a bit of work at a time, every column gives the team an idea of how much work is being accomplished at any given moment. This is best practice because it creates an awareness of how much work is being completed. ",
-    "createdAt": 1655821271488
+    "createdAt": 1655821271488,
+    "metaDescription": "Kanban is a lean product development approach that used for following work load. ",
+    "updatedAt": 1655882173634
   },
   {
     "title": "Lean",
     "ID": "67bd7fc1-b118-4617-98a3-0ee282cbae3a",
     "slug": "lean",
     "tag": "L",
-    "description": "Lean is an approach for minimizing risk in development processes. ",
+    "description": "\nLean is a methodology for product development. It aims to maximize efficiency by eliminating waste of all kinds. With the inspiration of Toyota’s production framework; developers and entrepreneurs built different approaches to different systems. They all basically stand on the idea of developing the best possible product with given sources.\n",
     "content": "Lean is a methodology for product development. It aims to maximize efficiency by eliminating waste of all kinds. With the inspiration of Toyota’s production framework; developers and entrepreneurs built different approaches to different systems. They all basically stand on the idea of developing the best possible product with given sources.",
-    "createdAt": 1655821364286
+    "createdAt": 1655821364286,
+    "metaDescription": "Lean is an approach for minimizing risk in development processes. ",
+    "updatedAt": 1655882192842
   },
   {
     "title": "Landing Page",
     "ID": "648e1df4-dc8f-4b30-b0f2-e2cf4f8649c0",
     "slug": "landing-page",
     "tag": "L",
-    "description": "Landing page is the page when users open a digital product. ",
+    "description": "A landing page is the page users see first after clicking a link. Landing pages can be used for an ad that aims to increase conversions, as well as to measure a product idea.",
     "content": "A landing page is the page users see first after clicking a link. Landing pages can be used for an ad that aims to increase conversions, as well as to measure a product idea.",
-    "createdAt": 1655821430412
+    "createdAt": 1655821430412,
+    "metaDescription": "Landing page is the page when users open a digital product. ",
+    "updatedAt": 1655882213067
   },
   {
     "title": "MVP",
     "ID": "aa2b0b0b-7579-4b1a-b400-b779c67ec644",
     "slug": "mvp",
     "tag": "M",
-    "description": "MVP is minimum viable product which used for testing the idea or start generating leads. ",
+    "description": "MVP stands for a minimum viable product. It is basically a small version of a bigger idea. With an MVP, it’s possible to see if the idea is profitable or not, start generating leads, build a community, learn about the processes, and more. ",
     "content": "MVP stands for a minimum viable product. It is basically a small version of a bigger idea. With an MVP, it’s possible to see if the idea is profitable or not, start generating leads, build a community, learn about the processes, and more. ",
-    "createdAt": 1655821542965
+    "createdAt": 1655821542965,
+    "metaDescription": "MVP is minimum viable product which used for testing the idea or start generating leads. ",
+    "updatedAt": 1655882237591
   },
   {
     "title": "Microservice",
     "ID": "aeb53179-d495-4d54-a9ce-7493160e314d",
     "slug": "microservice",
     "tag": "M",
-    "description": "Microservices are small apps that perform specific functions within a larger system.",
+    "description": "Microservices express an architectural style. Generally, a  microservice functions as a part of a bigger application. Microservices make it easy to build scalable applications that not only have fewer bugs but are also easier to maintain. Using microservice architecture manages collaborations and divides complex projects. It’s a pattern that has been used in some form since the mid-90s. ",
     "content": "Microservices express an architectural style. Generally, a  microservice functions as a part of a bigger application. Microservices make it easy to build scalable applications that not only have fewer bugs but are also easier to maintain. Using microservice architecture manages collaborations and divides complex projects. It’s a pattern that has been used in some form since the mid-90s. ",
-    "createdAt": 1655821606403
+    "createdAt": 1655821606403,
+    "metaDescription": "Microservices are small apps that perform specific functions within a larger system.",
+    "updatedAt": 1655882261703
   },
   {
     "title": "Navigation Map",
     "ID": "2a142ad0-acc2-41f9-98ed-fac1f986d2d9",
     "slug": "navigation-map",
     "tag": "N",
-    "description": "Navigation is the process that allows users to reach their goals in the shortest amount of time possible.",
+    "description": "The term navigation map can be used to describe certain attributes of a route instruction. A navigation map can also be described as a diagram that depicts the structure and organization of interconnected documents.",
     "content": "The term navigation map can be used to describe certain attributes of a route instruction. A navigation map can also be described as a diagram that depicts the structure and organization of interconnected documents.",
-    "createdAt": 1655821689338
+    "createdAt": 1655821689338,
+    "metaDescription": "Navigation is the process that allows users to reach their goals in the shortest amount of time possible.",
+    "updatedAt": 1655882311510
   },
   {
     "title": "Onboarding",
     "ID": "812098dc-64ab-49cd-9a7c-75ce54b446ab",
     "slug": "onboarding",
     "tag": "O",
-    "description": "Onboarding is the process of introducing a digital product to its users.",
-    "content": "Introducing a product or service to users or customers is known as product onboarding. Onboarding is an essential part of the product adoption process. It enables people to become familiar with a product's features, as well as how to use it. \n\n![Onboarding](https://lh3.googleusercontent.com/-Y_PGhRSrt7ozr2sJtbNpi5xqJ7EYccKAZkhuzD3AOPOUbwyF2JA11Couox9yxmkIInJw49sUCaHQi_QDtR1=w1294-h668)",
+    "description": "Introducing a product or service to users or customers is known as product onboarding. Onboarding is an essential part of the product adoption process. It enables people to become familiar with a product's features, as well as how to use it.",
+    "content": "Introducing a product or service to users or customers is known as product onboarding. Onboarding is an essential part of the product adoption process. It enables people to become familiar with a product's features, as well as how to use it.",
     "createdAt": 1655821823973,
-    "updatedAt": 1655821877919
+    "updatedAt": 1655882336240,
+    "metaDescription": "Onboarding is the process of introducing a digital product to its users."
   },
   {
     "title": "Prototype",
     "ID": "08b64bc2-6f69-4c51-a962-180b33cd6f4a",
     "slug": "prototype",
     "tag": "P",
-    "description": "Prototypes are early versions of a product.",
+    "description": "Prototypes are early examples of what you’re designing or building. They are created for getting feedback from the customer to ensure you two are on the same page about the product.",
     "content": "Prototypes are early examples of what you’re designing or building. They are created for getting feedback from the customer to ensure you two are on the same page about the product.",
-    "createdAt": 1655821947345
+    "createdAt": 1655821947345,
+    "metaDescription": "Prototypes are early versions of a product.",
+    "updatedAt": 1655882367682
   },
   {
     "title": "Pixel",
     "ID": "03f0c296-dd4c-4a10-9da4-b1a50fadebd1",
     "slug": "pixel",
     "tag": "P",
-    "description": "Pixel is the smallest  element of a digital picture. ",
-    "content": "The term pixel is derived from the words pix (from photographs) and el (for element). A pixel is commonly regarded as the tiniest single component of a computer image.\n\n![Pixel](https://lh3.googleusercontent.com/AJvzler0HUbro7htkhUujbFSXYwWEqd4GjLbO8Lt53XbJmqtGmwE9kFmnEHsrY6BFY2-WJoK506Q8Nsppzm2=w1294-h668)",
-    "createdAt": 1655822042357
+    "description": "The term pixel is derived from the words pix (from photographs) and el (for element). A pixel is commonly regarded as the tiniest single component of a computer image.",
+    "content": "The term pixel is derived from the words pix (from photographs) and el (for element). A pixel is commonly regarded as the tiniest single component of a computer image.",
+    "createdAt": 1655822042357,
+    "metaDescription": "Pixel is the smallest  element of a digital picture. ",
+    "updatedAt": 1655882401528
   },
   {
     "title": "Perception of Value",
     "ID": "d392a174-97eb-4ed1-9e53-e8ce2cb7f1ca",
     "slug": "perception-of-value",
     "tag": "P",
-    "description": "Perception of value is the expression of how users feels about the value of a product. ",
+    "description": "Perception of value explains customer satisfaction with a product or service. It mostly depends on expectations, affordance, and aesthetics. A product's perceived value is an estimation of the value that customers suppose they are obtaining.",
     "content": "Perception of value explains customer satisfaction with a product or service. It mostly depends on expectations, affordance, and aesthetics. A product's perceived value is an estimation of the value that customers suppose they are obtaining.",
-    "createdAt": 1655822120476
+    "createdAt": 1655822120476,
+    "metaDescription": "Perception of value is the expression of how users feels about the value of a product. ",
+    "updatedAt": 1655882445043
   },
   {
     "title": "Persona",
     "ID": "9f0e17a9-8126-4c65-8fc0-aebc336d75d0",
     "slug": "persona",
     "tag": "P",
-    "description": "Personas are representations of a certain user segment.",
+    "description": "Persona is the visual and detailed presentation of a product’s or service’s target audiences or users. By creating personas, we are able to understand whom we are building, designing, writing, and developing for. From UX design to marketing, personas are important for all of us. ",
     "content": "Persona is the visual and detailed presentation of a product’s or service’s target audiences or users. By creating personas, we are able to understand whom we are building, designing, writing, and developing for. From UX design to marketing, personas are important for all of us. ",
-    "createdAt": 1655822165477
+    "createdAt": 1655822165477,
+    "metaDescription": "Personas are representations of a certain user segment.",
+    "updatedAt": 1655882466150
   },
   {
     "title": "RICE",
     "ID": "3348185b-57b5-43be-8c1f-7d91c03a4abb",
     "slug": "rice",
     "tag": "R",
-    "description": "RCE is a product management prioritization method that stands for reach, impact, confidence, and effort.",
+    "description": "RİCE is a prioritizing framework for product management that stands for reach, impact, confidence, and effort. RİCE helps us to focus on what matters most in a manageable way. When prioritizing something, we need to consider our reach, which is how many people are going to bear the consequences of our work. We must evaluate the impact which is how big of an impact is this task going to have. ",
     "content": "RİCE is a prioritizing framework for product management that stands for reach, impact, confidence, and effort. RİCE helps us to focus on what matters most in a manageable way. When prioritizing something, we need to consider our reach, which is how many people are going to bear the consequences of our work. We must evaluate the impact which is how big of an impact is this task going to have. ",
-    "createdAt": 1655822218804
+    "createdAt": 1655822218804,
+    "metaDescription": "RCE is a product management prioritization method that stands for reach, impact, confidence, and effort.",
+    "updatedAt": 1655882487751
   },
   {
     "title": "Scrum",
     "ID": "f70d61e9-2b73-4c68-ae99-eadd203d0d0e",
     "slug": "scrum",
     "tag": "S",
-    "description": "Scrum is a framework for product development which aims organizing work load by seperate it into one week to four weeks.",
+    "description": "Scrum is a framework for iterative and incremental product development that is based on the step-by-step refinement of an annual plan, created using iterations that last between one and four weeks. This method focuses on creating adaptability within your team so they can react to change while still following the general plan.",
     "content": "Scrum is a framework for iterative and incremental product development that is based on the step-by-step refinement of an annual plan, created using iterations that last between one and four weeks. This method focuses on creating adaptability within your team so they can react to change while still following the general plan.",
-    "createdAt": 1655822296306
+    "createdAt": 1655822296306,
+    "metaDescription": "Scrum is a framework for product development which aims organizing work load by seperate it into one week to four weeks.",
+    "updatedAt": 1655882505886
   },
   {
     "title": "Sprint",
     "ID": "f61c5440-d422-4988-84a2-8b3d08ed5abb",
     "slug": "sprint",
     "tag": "S",
-    "description": "Sprint is a way of planning for scrum teams which aims to track progress. ",
+    "description": "Sprints are used by scrum teams to keep track of progress on a project. Sprint planning is a critical step along the way to delivering better products through agile, and it's one that informs every other part of the process. At the end of each sprint, the team should be able to show that they've made significant progress.",
     "content": "Sprints are used by scrum teams to keep track of progress on a project. Sprint planning is a critical step along the way to delivering better products through agile, and it's one that informs every other part of the process. At the end of each sprint, the team should be able to show that they've made significant progress.",
-    "createdAt": 1655822379676
+    "createdAt": 1655822379676,
+    "metaDescription": "Sprint is a way of planning for scrum teams which aims to track progress. ",
+    "updatedAt": 1655882522828
   },
   {
     "title": "UI",
     "ID": "2977e1c9-c425-4d71-a6bf-595a1001e63f",
     "slug": "ui",
     "tag": "U",
-    "description": "UI stands for user interface. ",
+    "description": "UI is the user interface, which allows users to interact with a system. The most important thing for a UI designer is to make the user's interaction with the system convenient, without any misunderstanding and mistakes. There must be concise prompts, messages, and icons to help users operate the interface.",
     "content": "UI is the user interface, which allows users to interact with a system. The most important thing for a UI designer is to make the user's interaction with the system convenient, without any misunderstanding and mistakes. There must be concise prompts, messages, and icons to help users operate the interface.",
-    "createdAt": 1655822446375
+    "createdAt": 1655822446375,
+    "metaDescription": "UI stands for user interface. ",
+    "updatedAt": 1655882543269
   },
   {
     "title": "Techical Dept",
     "ID": "ef71b13c-5c9e-4501-aefc-7af039b1fc68",
     "slug": "techical-dept",
     "tag": "T",
-    "description": "Technical dept is the result of prioritizing speed over excellence.",
+    "description": "Technical dept is a catch-all category that includes everything from bugs to legacy code to missing documentation. It occurs when speed is more important than perfectness. ",
     "content": "Technical dept is a catch-all category that includes everything from bugs to legacy code to missing documentation. It occurs when speed is more important than perfectness. ",
-    "createdAt": 1655822507304
+    "createdAt": 1655822507304,
+    "metaDescription": "Technical dept is the result of prioritizing speed over excellence.",
+    "updatedAt": 1655882569285
   },
   {
     "title": "Trello",
     "ID": "e7ba63b5-224f-4872-968a-9589330d3ad2",
     "slug": "trello",
     "tag": "T",
-    "description": "Trello is a project management app which generally used by tech teams. ",
-    "content": "Trello is a visual project management, workflow, and task tracking application that your team can use to manage any form of project, workflow, or task tracking. Files, checklists, and even automation can be added: Customize everything to fit the way your team works best.\n\n![Trello](https://lh6.googleusercontent.com/EGS9Gi8oAKaRK5zWy2H3-MD4yVLdOLvGAaauxLtF9Cy-g8wlwgKj5SoTE---2Vnc-6vAiXISl1rSB180oMqC=w1294-h668)",
-    "createdAt": 1655822601371
+    "description": "Trello is a visual project management, workflow, and task tracking application that your team can use to manage any form of project, workflow, or task tracking. Files, checklists, and even automation can be added: Customize everything to fit the way your team works best.",
+    "content": "Trello is a visual project management, workflow, and task tracking application that your team can use to manage any form of project, workflow, or task tracking. Files, checklists, and even automation can be added: Customize everything to fit the way your team works best.",
+    "createdAt": 1655822601371,
+    "metaDescription": "Trello is a project management app which generally used by tech teams. ",
+    "updatedAt": 1655882589431
   },
   {
     "title": "Typography",
     "ID": "3d3f3a74-8750-41eb-8b4e-7efe17a4b3a3",
     "slug": "typography",
     "tag": "T",
-    "description": " Typography is the all of the visual elements of text such font style, look and structure.",
-    "content": "The discipline of arranging letters and text in such a way that the content is legible, clear, and visually appealing to the reader is known as typography. \n\n![Typography](https://lh6.googleusercontent.com/7nYjBHMFM2IZ_qzyxRukequaJg3V4hb5lEQNj5PoD0PnTbEbg_oUcLwwg_PeZiLDNVe6gI4q1-j_XM1VoPgB=w1294-h668)",
-    "createdAt": 1655822731476
+    "description": "The discipline of arranging letters and text in such a way that the content is legible, clear, and visually appealing to the reader is known as typography.",
+    "content": "The discipline of arranging letters and text in such a way that the content is legible, clear, and visually appealing to the reader is known as typography.",
+    "createdAt": 1655822731476,
+    "metaDescription": " Typography is the all of the visual elements of text such font style, look and structure.",
+    "updatedAt": 1655882614652
+  },
+  {
+    "slug": "ux",
+    "tag": "U",
+    "title": "UX",
+    "ID": "270a5120-49b0-445a-8969-a97bd8a34121",
+    "description": "UX refers to user experience. User experience focuses on the user's perception of the system while UI mostly focuses on aesthetic elements of a product or system. User experiences are designed by UX designers with the aim of easiness, efficiency, usability, and so on.",
+    "content": "UX refers to user experience. User experience focuses on the user's perception of the system while UI mostly focuses on aesthetic elements of a product or system. User experiences are designed by UX designers with the aim of easiness, efficiency, usability, and so on.",
+    "metaDescription": "UX stands for user experience. ",
+    "createdAt": 1655882705252
+  },
+  {
+    "slug": "user-flow",
+    "tag": "U",
+    "title": "User Flow",
+    "ID": "0689a7eb-5015-4d99-9b4c-174fbdbff91c",
+    "description": "User flows are critical to the design process. They represent the desired flow of a user through a site and are used to protect against overly complex interfaces, at the very minimum. They are the fastest way of visualizing users’ processes and understanding their needs.",
+    "content": "User flows are critical to the design process. They represent the desired flow of a user through a site and are used to protect against overly complex interfaces, at the very minimum. They are the fastest way of visualizing users’ processes and understanding their needs.",
+    "metaDescription": "User flow is the path users follow to accomplish a task.",
+    "createdAt": 1655882784949
+  },
+  {
+    "slug": "usp",
+    "tag": "U",
+    "title": "USP",
+    "ID": "d9a73b6e-77c6-4cef-b3bb-8d280d956142",
+    "description": "USP stands for unique selling propositions; which explains why someone buys your product or service instead of competitors. A unique selling proposition can be something digital or something that should be expressed well in digital. Both ways, it’s important to understand the unique selling proposition of something for digital product efforts. ",
+    "content": "USP stands for unique selling propositions; which explains why someone buys your product or service instead of competitors. A unique selling proposition can be something digital or something that should be expressed well in digital. Both ways, it’s important to understand the unique selling proposition of something for digital product efforts. ",
+    "metaDescription": "USP stands for unique selling positions. ",
+    "createdAt": 1655882867239
+  },
+  {
+    "slug": "usability",
+    "tag": "U",
+    "title": "Usability",
+    "ID": "e77c9720-6aee-4217-8c27-4ae1a899d291",
+    "description": "Usability is a UX and UI term to express how usable a product is. It’s important to differentiate usability from the ease of use. Usability includes learnability, efficiency, memorability, errors, and satisfaction. ",
+    "content": "Usability is a UX and UI term to express how usable a product is. It’s important to differentiate usability from the ease of use. Usability includes learnability, efficiency, memorability, errors, and satisfaction. ",
+    "metaDescription": "Usablity is the expression of how usable a product. ",
+    "createdAt": 1655882936871
+  },
+  {
+    "slug": "user-journey-map",
+    "tag": "U",
+    "title": "User Journey Map",
+    "ID": "9ad9132e-619b-4e57-a5ca-7836a55b9220",
+    "description": "User journey maps are a visual representation of how the user interacts with the design from the designer's point of view. The designer may become so engrossed in his job that he loses sight of his ultimate goal: to assist consumers with their requirements. It enables him to describe the defects, how they may be improved, and what could be done to correct them. It promotes the notion that interactivity is an important aspect of design.",
+    "content": "User journey maps are a visual representation of how the user interacts with the design from the designer's point of view. The designer may become so engrossed in his job that he loses sight of his ultimate goal: to assist consumers with their requirements. It enables him to describe the defects, how they may be improved, and what could be done to correct them. It promotes the notion that interactivity is an important aspect of design.",
+    "metaDescription": "User journey maps are represantation of a user's steps in a digital product. ",
+    "createdAt": 1655883003362
+  },
+  {
+    "slug": "voc",
+    "tag": "V",
+    "title": "VOC",
+    "ID": "c7a69824-e910-4fd5-be9f-1b21e1807c43",
+    "description": "VOC stands for the voice of the customer. It is one of the main concerns in user-centered design and development. VOC basically refers to user feedback and includes understanding the expectations, needs, and pain points of end-users.",
+    "content": "VOC stands for the voice of the customer. It is one of the main concerns in user-centered design and development. VOC basically refers to user feedback and includes understanding the expectations, needs, and pain points of end-users.",
+    "metaDescription": "VOC stands for voice of the customer. ",
+    "createdAt": 1655883065152
+  },
+  {
+    "slug": "white-space",
+    "tag": "W",
+    "title": "White Space",
+    "ID": "6c2b2391-1703-4d44-b16e-9216508d3b41",
+    "description": "White is simply the space between design elements in a product. It is sometimes referred to as negative or blank space. It refers to everything that isn't content.",
+    "content": "White is simply the space between design elements in a product. It is sometimes referred to as negative or blank space. It refers to everything that isn't content.",
+    "metaDescription": "White space is the blank space in a design. ",
+    "createdAt": 1655883129096
+  },
+  {
+    "slug": "wireframe",
+    "tag": "W",
+    "title": "Wireframe",
+    "ID": "34daeb3e-c07b-49bf-970f-a2621a66cf9f",
+    "description": "Wireframes are pre-structures of a digital product. They are simple black-and-white drafts before any code is written. It is possible to perceive them as sketches. It helps different teams visually communicate with each other. Wireframes are used by user experience and user interface designers to sketch out a visual idea that can be readily adjusted until it's ready to be created and developed",
+    "content": "Wireframes are pre-structures of a digital product. They are simple black-and-white drafts before any code is written. It is possible to perceive them as sketches. It helps different teams visually communicate with each other. Wireframes are used by user experience and user interface designers to sketch out a visual idea that can be readily adjusted until it's ready to be created and developed",
+    "metaDescription": "Wireframes are drafts of a digital product design. ",
+    "createdAt": 1655883190396
+  },
+  {
+    "slug": "waterfall",
+    "tag": "W",
+    "title": "Waterfall",
+    "ID": "0854978c-63c2-420b-b294-48fd40782a9b",
+    "description": "The waterfall is a methodology for project management. It is based on finishing every stage before starting the next one. In software development, there are 5 common stages: requirements, design, implementation, verification or testing, deployment & maintenance. ",
+    "content": "The waterfall is a methodology for project management. It is based on finishing every stage before starting the next one. In software development, there are 5 common stages: requirements, design, implementation, verification or testing, deployment & maintenance. ",
+    "metaDescription": "Waterfall is a development methodology in software development.",
+    "createdAt": 1655883292986
+  },
+  {
+    "slug": "yoy",
+    "tag": "Y",
+    "title": "YOY",
+    "ID": "b934793a-2ac6-4c26-b019-6b859635b971",
+    "description": "Year-over-year (YOY) is a method of comparing the outcomes of two measured events in different years on an annualized basis.\nYOY comparisons are a popular and effective way to assess a company's financial performance.",
+    "content": "Year-over-year (YOY) is a method of comparing the outcomes of two measured events in different years on an annualized basis.\nYOY comparisons are a popular and effective way to assess a company's financial performance.",
+    "metaDescription": "YOY stands for year over year in digital product analytics.",
+    "createdAt": 1655883379190
+  },
+  {
+    "slug": "zoom",
+    "tag": "Z",
+    "title": "Zoom",
+    "ID": "14718033-9364-4da5-8898-c88246dd6400",
+    "description": "Zoom is a cloud-based meeting app that popularized in the coronavirus pandemic when remote working was common. You can use zoom for audio conferences and video conferences and both of them.",
+    "content": "Zoom is a cloud-based meeting app that popularized in the coronavirus pandemic when remote working was common. You can use zoom for audio conferences and video conferences and both of them.",
+    "metaDescription": "Zoom is a virtual  conferencing app.",
+    "createdAt": 1655883504856
   }
 ]
