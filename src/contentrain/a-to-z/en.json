@@ -433,5 +433,15 @@
     "content": "User journey maps are a visual representation of how the user interacts with the design from the designer's point of view. The designer may become so engrossed in his job that he loses sight of his ultimate goal: to assist consumers with their requirements. It enables him to describe the defects, how they may be improved, and what could be done to correct them. It promotes the notion that interactivity is an important aspect of design.",
     "metaDescription": "User journey maps are represantation of a user's steps in a digital product. ",
     "createdAt": 1655883003362
+  },
+  {
+    "slug": "voc",
+    "tag": "V",
+    "title": "VOC",
+    "ID": "c7a69824-e910-4fd5-be9f-1b21e1807c43",
+    "description": "VOC stands for the voice of the customer. It is one of the main concerns in user-centered design and development. VOC basically refers to user feedback and includes understanding the expectations, needs, and pain points of end-users.",
+    "content": "VOC stands for the voice of the customer. It is one of the main concerns in user-centered design and development. VOC basically refers to user feedback and includes understanding the expectations, needs, and pain points of end-users.",
+    "metaDescription": "VOC stands for voice of the customer. ",
+    "createdAt": 1655883065152
   }
 ]
