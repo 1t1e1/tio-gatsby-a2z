@@ -6,7 +6,9 @@ tag: "G"
 description: "Growth hacking is a relatively new marketing subfield generally used by tech-driven companies. Growth hacking focuses on ways to grow as a whole instead of just leads and acquisitions. Growth hackers use pirate funnels which occur through steps of awareness, acquisition, activation, retention, revenue, and referral."
 createdAt: 1655820635751
 metaDescription: "Growth hacking is a set of strategies for tech-driven businesses."
-updatedAt: 1655881995409
+updatedAt: 1655897415676
 
 ---
 Growth hacking is a relatively new marketing subfield generally used by tech-driven companies. Growth hacking focuses on ways to grow as a whole instead of just leads and acquisitions. Growth hackers use pirate funnels which occur through steps of awareness, acquisition, activation, retention, revenue, and referral.
+
+![Growth Hacking](https://media.giphy.com/media/R9Eazl18aeaNa/giphy.gif)
