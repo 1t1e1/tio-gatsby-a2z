@@ -6,7 +6,7 @@ tag: "I"
 description: "Software integration is the process of combining diverse software programs or pieces into a single system. The degree of integration can range from merging very small components to larger, more complicated systems. "
 createdAt: 1655820945690
 metaDescription: "Integration stands for merging different applications, elements or systems into one."
-updatedAt: 1655882066133
+updatedAt: 1655882077628
 
 ---
 Software integration is the process of combining diverse software programs or pieces into a single system. The degree of integration can range from merging very small components to larger, more complicated systems. 
