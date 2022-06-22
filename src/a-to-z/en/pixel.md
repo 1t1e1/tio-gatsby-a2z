@@ -6,7 +6,9 @@ tag: "P"
 description: "The term pixel is derived from the words pix (from photographs) and el (for element). A pixel is commonly regarded as the tiniest single component of a computer image."
 createdAt: 1655822042357
 metaDescription: "Pixel is the smallest  element of a digital picture. "
-updatedAt: 1655882401528
+updatedAt: 1655897959848
 
 ---
 The term pixel is derived from the words pix (from photographs) and el (for element). A pixel is commonly regarded as the tiniest single component of a computer image.
+
+![Pixel](https://media.giphy.com/media/HbZAHCByI13YGrNzeJ/giphy.gif)
