@@ -16,7 +16,7 @@ export default function Template({
         </div>
         <div className="flex flex-col lg:pl-80 pr-20 w-full">
           <Navbar />
-          <article className="prose max-w-2xl">
+          <article className="cms-content max-w-2xl">
             <h1 className="pb-5 text-3xl text-blue font-bold">{frontmatter.title}</h1>
             <div
               className="py-2 "

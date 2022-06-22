@@ -5,3 +5,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components{
+.cms-content p{
+    @apply py-2;        
+} 
+}
