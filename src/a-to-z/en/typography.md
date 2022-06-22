@@ -6,7 +6,9 @@ tag: "T"
 description: "The discipline of arranging letters and text in such a way that the content is legible, clear, and visually appealing to the reader is known as typography."
 createdAt: 1655822731476
 metaDescription: " Typography is the all of the visual elements of text such font style, look and structure."
-updatedAt: 1655882614652
+updatedAt: 1655890498182
 
 ---
 The discipline of arranging letters and text in such a way that the content is legible, clear, and visually appealing to the reader is known as typography.
+
+![Typography](https://media.giphy.com/media/52kR8CC9eKezyQgXli/giphy.gif)
