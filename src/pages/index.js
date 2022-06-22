@@ -24,7 +24,7 @@ const IndexPage = () => {
   `)
 
   const terms = termsData.allMarkdownRemark.nodes
-console.log(terms)
+
   return (
     <main >
       <title>A to Z</title>
@@ -34,7 +34,7 @@ console.log(terms)
         </div>
         <div className="flex flex-col lg:pl-80 pr-20 w-full">
         <Navbar/>
-        <h1 className="text-xl  md:text-2xl lg:text-5xl max-w-2xl text-blue pt-10 pb-40 font-bold">We've listed all the 
+        <h1 className="text-xl font-serif  md:text-2xl lg:text-5xl max-w-2xl text-blue pt-10 pb-40 ">We've listed all the 
         <span className="font-serif font-bold"> terms </span> 
         and <span className="font-serif"> definitions </span> that you'll want to know
         about digital products.</h1>

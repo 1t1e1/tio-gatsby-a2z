@@ -13,8 +13,8 @@ module.exports = {
         'light': '#FBF7EE'
       },
       fontFamily: {
-        sans: ['Sora', 'sans-serif'],
-        serif: ['"Frank Ruhl Libre"', 'serif']
+        sans: ['Inter', 'sans-serif'],
+        serif: ['"Orelega One"', 'serif']
       },
     },
     
