@@ -473,5 +473,15 @@
     "content": "The waterfall is a methodology for project management. It is based on finishing every stage before starting the next one. In software development, there are 5 common stages: requirements, design, implementation, verification or testing, deployment & maintenance. ",
     "metaDescription": "Waterfall is a development methodology in software development.",
     "createdAt": 1655883292986
+  },
+  {
+    "slug": "yoy",
+    "tag": "Y",
+    "title": "YOY",
+    "ID": "b934793a-2ac6-4c26-b019-6b859635b971",
+    "description": "Year-over-year (YOY) is a method of comparing the outcomes of two measured events in different years on an annualized basis.\nYOY comparisons are a popular and effective way to assess a company's financial performance.",
+    "content": "Year-over-year (YOY) is a method of comparing the outcomes of two measured events in different years on an annualized basis.\nYOY comparisons are a popular and effective way to assess a company's financial performance.",
+    "metaDescription": "YOY stands for year over year in digital product analytics.",
+    "createdAt": 1655883379190
   }
 ]
