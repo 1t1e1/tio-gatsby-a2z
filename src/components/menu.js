@@ -7,7 +7,7 @@ const Menu = () => {
     return (
         <div className='flex flex-col p-10 text-blue '>
             {alphabet.map((letter) => ( 
-              <Link  key={letter} to={"/" + letter.toLowerCase()}> >{letter}</Link>
+              <Link  key={letter} to={"/" + letter.toLowerCase()}>{letter}</Link>
             ))}
         </div>
     );
